@@ -1,3 +1,24 @@
+<h1>React-Product-website-project</h1>
+<br>
+<div>1.Technology stack & libraries used</div> 
+<p>react.js,framer-motion,tailwind.css,redux,react-icons and other libraries</p> 
+<br>
+<h1>Public hosted</h1>
+###  <a href="https://myecom-project-react.netlify.app/">LINK TO PROJECT</a> 
+
+<a href="https://ibb.co/cFHnsfS"><img src="https://i.ibb.co/Sn8CZY4/image.png" alt="image" border="0"></a>
+
+<h1>Steps to run project</h1>
+Download zip file and extract all files in a folder than run terminal in that folder.Than hit the commands below.
+### `npm install `
+### `npm start `
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
